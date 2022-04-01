@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: yarn.lock
+  checksum: c0205ac4b1a50edec1cb6a60ff916fa693cc36ea6d00dd2b616c4ae3c59cd02a
+- filename: package-lock.json
+  checksum: e8eddae7f78305cd9885a7c6962c4e0edf09d74e68a57026a3e828c5ee4e4eea
+- filename: src/components/Todo.js
+  checksum: a00f7fc0067b65156bbcfb2e85603b23573d5269bd32e4b0612dd7060d8ba962
+version: ""
